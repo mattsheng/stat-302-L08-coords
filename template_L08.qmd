@@ -59,7 +59,7 @@ Using the `mod_nba_adv_stats_2023_24.txt` dataset we will try to recreate/approx
 
 ## Goal
 
-Replicate the graphic below as closely as possible --- see instructions for image.
+Replicate the graphic below as closely as possible.
 
 :::
 
